@@ -1,6 +1,6 @@
 ### Hi there ⛄
 
-[![Stackoverflow Badge](https://img.shields.io/badge/-syohey-9cf?style=logo=stackoverflow?style=flat-square&logo=stackoverflow&link=https://stackoverflow.com/users/4909849/syohey&color=fef9ef&logoColor=red)](https://stackoverflow.com/users/4909849/syohey) [![Discord Badge](https://img.shields.io/badge/-sabito-9cf?style=logo=discord?style=flat-square&logo=discord&link=https://discord.gg/A54eTAcf&color=f2e9e4&logoColor=4a4e69)](https://discord.gg/A54eTAcf)
+[![Stackoverflow Badge](https://img.shields.io/badge/-syohey-9cf?style=logo=stackoverflow?style=flat-square&logo=stackoverflow&link=https://stackoverflow.com/users/4909849/syohey&color=fef9ef&logoColor=red)](https://stackoverflow.com/users/4909849/syohey) [![Discord Badge](https://img.shields.io/badge/-tomodachi-9cf?style=logo=discord?style=flat-square&logo=discord&link=https://discord.gg/A54eTAcf&color=fef9ef&logoColor=4a4e69)](https://discord.gg/A54eTAcf)
 
 - 🌱 I’m currently learning rust, skateboarding, data structures, algorithms, and guitar.
 - 🤔 I’m looking for help with rust, skateboarding, and data strucutres.
