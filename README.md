@@ -7,7 +7,7 @@
 - 💬 Ask me about go(board game).
 - 📫 How to reach me: telegram or discord(sabito#5178 or join my server from the discord button above!).
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm bad at almost everything, but am willing to learn almost anything. I play go(board game)! Hit me up if you want a game! 🐷
+- ⚡ Fun fact: I'm bad at almost everything, but am interested in almost anything. 🐷
 
 
 
