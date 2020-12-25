@@ -10,11 +10,11 @@
 - ⚡ Fun fact: I want a corgi. 🐷
 - 📷 Hobbies: Go, photography, skateboading, guitar, reading manga, and watching anime/movies.
 
-<br>
+<!-- <br> -->
 
-<div align="center">
+<!-- <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjinno&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Shohei's Github Stats">
-</div>
+</div> -->
 
 <!--
 **sjinno/sjinno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
