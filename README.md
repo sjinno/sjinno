@@ -5,10 +5,16 @@
 - 🌱 I’m currently learning rust, skateboarding, data structures, algorithms, and guitar.
 - 🤔 I’m looking for help with rust, skateboarding, and data strucutres.
 - 💬 Ask me about go(board game).
-- 📫 How to reach me: telegram or discord(sabito#5178 or join my server from the discord button above!).
+- 📫 How to reach me: Telegram or discord(sabito#5178 or join my server from the discord button above!).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I want a corgi. 🐷
 - 📷 Hobbies: Go, photography, skateboading, guitar, reading manga, and watching anime/movies.
+
+<br>
+
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjinno&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Shohei's Github Stats">
+</div>
 
 <!--
 **sjinno/sjinno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
