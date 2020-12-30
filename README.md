@@ -13,7 +13,7 @@
 <!-- <br> -->
 
 <!-- <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjinno&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Shohei's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjinno&&show_icons=true&title_color=ffffff&icon_color=F8F32B&text_color=8D99AE&bg_color=2B2D42" alt="Shohei's Github Stats">
 </div> -->
 
 <!--
