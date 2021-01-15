@@ -11,16 +11,18 @@
 - ⚡ Fun fact: I want a corgi. 🐷
 - 📷 Hobbies: Go, photography, skateboading, guitar, reading manga, and watching anime/movies.
 
-<!-- <br> -->
+<!-- <br>
 
-<!-- <center>
+<center>
   <table style="border: none;">
     <tr style="border: none;">
-        <td style="border: none;"><img width="512px" align="left" src="https://github-readme-stats.vercel.app/api?username=sjinno&&show_icons=true&title_color=ffffff&icon_color=F8F32B&text_color=8D99AE&bg_color=2B2D42" alt="Shohei's Github Stats"></td>
-        <td style="border: none;"><img width="512px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjinno&hide=html&layout=compact&show_icons=true&title_color=ffffff&icon_color=F8F32B&text_color=8D99AE&bg_color=2B2D42" /></td>
+        <td style="border: none;"><img width="512px" align="left" src="https://github-readme-stats.vercel.app/api?username=sjinno&&show_icons=true&title_color=2f242c&icon_color=f24c00&text_color=355691&bg_color=fffdfd" alt="Shohei's Github Stats"></td>
+        <td style="border: none;"><img width="512px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjinno&hide=html&layout=compact&show_icons=true&title_color=2f242c&icon_color=f24c00&text_color=355691&bg_color=fffdfd" /></td>
     </tr>
   </table>
 </center> -->
+
+<!-- https://github-readme-stats.vercel.app/api?username=sjinno&&show_icons=true&title_color=ffffff&icon_color=F8F32B&text_color=8D99AE&bg_color=2B2D42 -->
 
 <!--
 **sjinno/sjinno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
