@@ -16,8 +16,8 @@
 <center>
   <table style="border: none;">
     <tr style="border: none;">
-        <td style="border: none;"><img width="512px" align="left" src="https://github-readme-stats.vercel.app/api?username=sjinno&&show_icons=true&title_color=2f242c&icon_color=f24c00&text_color=355691&bg_color=fffdfd" alt="Shohei's Github Stats"></td>
-        <td style="border: none;"><img width="512px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjinno&hide=html&layout=compact&show_icons=true&title_color=2f242c&icon_color=f24c00&text_color=355691&bg_color=fffdfd" /></td>
+        <td style="border: none;"><img width="512px" align="left" src="https://github-readme-stats.vercel.app/api?username=sjinno&&show_icons=true&title_color=24292e&icon_color=f66a0a&text_color=005cc5&bg_color=fafbfc" alt="Shohei's Github Stats"></td>
+        <td style="border: none;"><img width="512px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjinno&hide=html&layout=compact&show_icons=true&title_color=24292e&icon_color=f66a0a&text_color=005cc5&bg_color=fafbfc" /></td>
     </tr>
   </table>
 </center> -->
