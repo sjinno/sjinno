@@ -8,7 +8,7 @@
 - 📫 How to reach me: Telegram or discord(sabito#5178 or join my server from the discord button above!). -->
 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I want a corgi. 🐷
+- ⚡ Fun fact: I love animals especially dogs. 🐷
 - 📷 Hobbies: Go, photography, skateboading, guitar, reading manga, and watching anime/movies.
 
 <!-- <br>
