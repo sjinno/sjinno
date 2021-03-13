@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love animals, especially dogs and cats, but I could be sadly allergic to cats who carry a lot of dust. Haha 🐷
 - 📷 Hobbies: I like almost all kinds of activities, but not really a huge fan of board games.
 
-<br>
+<!-- <br>
 
 <center>
   <table style="border: none;">
@@ -20,7 +20,7 @@
         <td style="border: none;"><img width="512px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjinno&hide=html&layout=compact&show_icons=true&title_color=24292e&icon_color=f66a0a&text_color=005cc5&bg_color=fafbfc" /></td>
     </tr>
   </table>
-</center>
+</center> -->
 
 <!-- https://github-readme-stats.vercel.app/api?username=sjinno&&show_icons=true&title_color=ffffff&icon_color=F8F32B&text_color=8D99AE&bg_color=2B2D42 -->
 
