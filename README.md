@@ -9,7 +9,7 @@
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love animals, especially dogs and cats, but I could be sadly allergic to cats who carry a lot of dust. Haha 🐷
-- 📷 Hobbies: I like almost all kinds of activities such as anime/manga, badminton, baseball ,biking, frisbee, go(board game), guitar, photography, piano, ping-pongm skateboarding, soccer, wingspan(board game), etc, but not really a huge fan of board games.
+- 📷 Hobbies: Anime/manga, go(board game), guitar, photography, piano, ping-pong, sports, wingspan(board game).
 
 <!-- <br>
 
