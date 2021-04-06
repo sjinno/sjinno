@@ -8,8 +8,8 @@
 - 📫 How to reach me: Telegram or discord(sabito#5178 or join my server from the discord button above!). -->
 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love animals, especially dogs and cats, but I could be sadly allergic to cats who carry a lot of dust. Haha 🐷
-- 📷 Hobbies: Anime/manga, go(board game), guitar, photography, piano, ping-pong, sports, wingspan(board game).
+<!-- - ⚡ Fun fact: I love animals, especially dogs and cats, but I could be sadly allergic to cats who carry a lot of dust. Haha 🐷
+- 📷 Hobbies: Anime/manga, go(board game), guitar, photography, piano, ping-pong, sports, wingspan(board game). -->
 
 <!-- <br>
 
